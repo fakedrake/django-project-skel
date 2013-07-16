@@ -1,1 +1,2 @@
-django>=1.4
+django>=1.5
+https://codeload.github.com/fakedrake/django-bootstrap-toolkit/zip/master#egg=django-bootstrap-tookit
