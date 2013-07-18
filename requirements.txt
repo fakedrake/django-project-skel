@@ -1,3 +1,7 @@
 django>=1.5
 https://codeload.github.com/fakedrake/django-bootstrap-toolkit/zip/master#egg=django-bootstrap-tookit
-django-extensions
+django-extensions>=1.1.1
+django-registration>=1.0
+# tastypie
+# django-compressor
+# django-dajax
